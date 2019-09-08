@@ -9,8 +9,8 @@ namespace UploadFiles{
         void DeleteFile(){}
         void AddFile(UploadFiles file){}
 
-        void AddFiles(){};
-        void DeleteFiles(){};
+        void AddFiles(){}
+        void DeleteFiles(){}
 
     }
 }
