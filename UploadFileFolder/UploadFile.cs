@@ -7,5 +7,8 @@ namespace UploadFiles{
     public class UploadFiles{
         public UploadFiles(){}
 
+        void AddFiles(){};
+        void DeleteFiles(){};
+
     }
 }
