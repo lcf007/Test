@@ -5,6 +5,7 @@
 
 namespace UploadFiles{
     public class UploadFiles{
-        
+        public UploadFiles(){}
+
     }
 }
