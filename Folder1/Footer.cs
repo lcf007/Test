@@ -1,1 +1,5 @@
 // Footer.
+
+namespace Footer{
+    
+}
