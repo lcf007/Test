@@ -12,5 +12,7 @@ namespace UploadFiles{
         void AddFiles(){}
         void DeleteFiles(){}
 
+        void UpdateFile(){}
+
     }
 }
