@@ -4,6 +4,7 @@ using UploadFiles;
 
 namespace Main
 {
+    LoginFeature lf = new LoginFeature();
     public class MainClass{
         UploadFiles uf = new UploadFiles();
 
